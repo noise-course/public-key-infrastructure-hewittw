@@ -49,8 +49,14 @@ Your submission should include:
 1. a write-up that documents how you did each task and answers any
 questions
 
+See Watkins-write-up.pdf
+
 2. a packet trace of HTTP traffic
 
+See http-trace.pcap
+
 3. a packet trace of HTTPS traffic
+
+See https-trace.pcap
 
 Please submit a zip file that contains these three files. 
