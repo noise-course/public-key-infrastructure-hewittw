@@ -60,3 +60,5 @@ See http-trace.pcap
 See https-trace.pcap
 
 Please submit a zip file that contains these three files. 
+
+Slack said we did not need to zip files. Other files used for this assignment are explained in Watkins-write-up.pdf and included in this repo.
